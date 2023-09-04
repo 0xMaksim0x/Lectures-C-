@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_2\\Example_2.csproj": {}
+    "C:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_3\\Example_3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_2\\Example_2.csproj": {
+    "C:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_3\\Example_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_2\\Example_2.csproj",
-        "projectName": "Example_2",
-        "projectPath": "c:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_2\\Example_2.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_3\\Example_3.csproj",
+        "projectName": "Example_3",
+        "projectPath": "C:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_3\\Example_3.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_2\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ДЗ\\C#\\HW_0\\Example_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
